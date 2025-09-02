@@ -11,7 +11,7 @@ This project focuses on **predicting passenger survival on the Titanic** using m
 
 # Titanic Survival Prediction Project
 
-## Dataset
+## 📊 Dataset
 The Titanic dataset from Kaggle contains information about 891 passengers, with the following features:
 
 - **PassengerId**: Unique identifier for each passenger  
@@ -29,7 +29,7 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
 
 ---
 
-## Key Techniques Implemented
+## 🛠 Key Techniques Implemented
 
 - **Data Exploration & Visualization**
   - Missing value analysis  
@@ -65,7 +65,7 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
 
 ---
 
-## Results
+## 📈 Results
 The Logistic Regression model achieves good accuracy in predicting passenger survival. Key findings include:
 
 - Gender was the most significant predictor of survival, with females having a much higher survival rate  
@@ -76,7 +76,7 @@ The Logistic Regression model achieves good accuracy in predicting passenger sur
 
 ---
 
-## Requirements
+## 📦 Requirements
 - Python  
 - pandas  
 - numpy  
@@ -87,7 +87,7 @@ The Logistic Regression model achieves good accuracy in predicting passenger sur
 
 ---
 
-## How to Use
+## 🚀 How to Use
 1. Clone this repository  
 2. Ensure you have all required packages installed  
 3. Open the Jupyter notebook `Titanic_Dataset.ipynb`  
@@ -95,7 +95,7 @@ The Logistic Regression model achieves good accuracy in predicting passenger sur
 
 ---
 
-## File Structure
+## 📂 File Structure
 - `Titanic_Dataset.ipynb` - The main Jupyter notebook containing all analysis and code  
 - `train.csv` - Training dataset with survival information  
 - `test.csv` - Test dataset for making predictions  
@@ -105,7 +105,7 @@ The Logistic Regression model achieves good accuracy in predicting passenger sur
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 - Feature engineering (especially binary features like `is_female` and `is_child`) significantly improves model performance  
 - Demographic factors (gender, passenger class) were more important predictors than numeric variables like fare  
 - The standard logistic regression model performs well for this classification task  
