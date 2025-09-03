@@ -12,6 +12,10 @@ This project focuses on **predicting passenger survival on the Titanic** using m
 # Titanic Survival Prediction Project
 
 ## 📊 Dataset
+[![Titanic Survivorship Dataset](https://img.youtube.com/vi/HippD992DCE/0.jpg)](https://youtu.be/HippD992DCE)
+
+🎥 [Titanic Survivorship Dataset](https://youtu.be/HippD992DCE) 🎥
+
 The Titanic dataset from Kaggle contains information about 891 passengers, with the following features:
 
 - **PassengerId**: Unique identifier for each passenger  
@@ -32,6 +36,11 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
 ## 🛠 Key Techniques Implemented
 
 - **Data Exploration & Visualization**
+  
+[![Titanic: Data Exploration & Visualization](https://img.youtube.com/vi/HZY-79KZX9c/0.jpg)](https://youtu.be/HZY-79KZX9c)
+
+🎥 [Titanic: Data Exploration & Visualization](https://youtu.be/HZY-79KZX9c) 🎥  
+
   - Missing value analysis  
   - Statistical summary of features  
   - Correlation analysis between numerical features  
@@ -40,17 +49,32 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
   - Visualization of survival patterns across different passenger groups  
 
 - **Feature Engineering & Data Preprocessing**
+  
+[![Titanic: Feature Engineering & Data Preprocessing](https://img.youtube.com/vi/QYsjfEf7KSk/0.jpg)](https://youtu.be/QYsjfEf7KSk)
+
+🎥 [Titanic: Feature Engineering & Data Preprocessing](https://youtu.be/QYsjfEf7KSk) 🎥 
+
   - Creation of binary features (`is_female`, `is_child`)  
   - Missing value imputation (Age, Embarked, Fare)  
   - Categorical encoding using one-hot encoding  
   - Feature scaling with `StandardScaler`  
 
 - **Advanced Analysis with SQL Queries**
+  
+[![Titanic: SQL](https://img.youtube.com/vi/ueXbL8Zlmms/0.jpg)](https://youtu.be/ueXbL8Zlmms)
+
+🎥 [Titanic: SQL](https://youtu.be/ueXbL8Zlmms) 🎥  
+
   - Survival statistics by demographic groups  
   - Age analysis of survivors  
   - Class and gender-based survival rate calculations  
 
 - **Model Training & Evaluation**
+  
+[![Titanic: Model Training & Evaluation](https://img.youtube.com/vi/1qdgQ7hrez8/0.jpg)](https://youtu.be/1qdgQ7hrez8)
+
+🎥 [Titanic: Model Training & Evaluation](https://youtu.be/1qdgQ7hrez8) 🎥 
+
   - Train-test split with stratification  
   - Logistic Regression classifier  
   - Cross-validation using K-Fold (5-fold)  
