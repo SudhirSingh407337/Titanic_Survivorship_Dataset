@@ -35,7 +35,7 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
 
 ## 🛠 Key Techniques Implemented
 
-- **Data Exploration & Visualization**
+**Data Exploration & Visualization**
   
 [![Titanic: Data Exploration & Visualization](https://img.youtube.com/vi/HZY-79KZX9c/0.jpg)](https://youtu.be/HZY-79KZX9c)
 
@@ -48,7 +48,9 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
   - Survival rates by passenger class and gender  
   - Visualization of survival patterns across different passenger groups  
 
-- **Feature Engineering & Data Preprocessing**
+---
+
+**Feature Engineering & Data Preprocessing**
   
 [![Titanic: Feature Engineering & Data Preprocessing](https://img.youtube.com/vi/QYsjfEf7KSk/0.jpg)](https://youtu.be/QYsjfEf7KSk)
 
@@ -59,7 +61,9 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
   - Categorical encoding using one-hot encoding  
   - Feature scaling with `StandardScaler`  
 
-- **Advanced Analysis with SQL Queries**
+---
+
+**Advanced Analysis with SQL Queries**
   
 [![Titanic: SQL](https://img.youtube.com/vi/ueXbL8Zlmms/0.jpg)](https://youtu.be/ueXbL8Zlmms)
 
@@ -69,7 +73,9 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
   - Age analysis of survivors  
   - Class and gender-based survival rate calculations  
 
-- **Model Training & Evaluation**
+---
+
+**Model Training & Evaluation**
   
 [![Titanic: Model Training & Evaluation](https://img.youtube.com/vi/1qdgQ7hrez8/0.jpg)](https://youtu.be/1qdgQ7hrez8)
 
@@ -81,7 +87,9 @@ The Titanic dataset from Kaggle contains information about 891 passengers, with 
   - Classification reports and confusion matrix  
   - Feature importance analysis  
 
-- **Visualization of Results**
+---
+
+**Visualization of Results**
   - Survival rates by sex and child status  
   - Overall survival distribution  
   - Confusion matrix heatmap  
